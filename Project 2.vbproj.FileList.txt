@@ -1,0 +1,24 @@
+bin\Debug\p2.exe
+bin\Debug\p2.pdb
+bin\Debug\p2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\p2.ElevatorSplashScreen.resources
+obj\Debug\p2.Resources.resources
+obj\Debug\Project 2.vbproj.GenerateResource.Cache
+obj\Debug\p2.exe
+obj\Debug\p2.xml
+obj\Debug\p2.pdb
+bin\Release\p2.exe
+bin\Release\p2.pdb
+bin\Release\p2.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\p2.ElevatorSplashScreen.resources
+obj\Release\p2.Form1.resources
+obj\Release\p2.Resources.resources
+obj\Release\Project 2.vbproj.GenerateResource.Cache
+obj\Release\p2.exe
+obj\Release\p2.xml
+obj\Release\p2.pdb
+obj\Debug\p2.frmSelection.resources
+obj\Debug\p2.form1.resources
+obj\Release\p2.frmSelection.resources
